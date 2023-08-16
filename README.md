@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://codepen.io/sumon670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumon670" height="30" width="40" /></a>
-<a href="https://twitter.com/sumon670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumon670" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumon-chatterjee-3b3b43227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumon-chatterjee-3b3b43227" height="30" width="40" /></a>
+<a href="https://twitter.com/radhedebu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumon670" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/radhedebu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumon-chatterjee-3b3b43227" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/sumon670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/sumon670" height="30" width="40" /></a>
 <a href="https://instagram.com/average_guy_sumon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="average_guy_sumon" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sumon670" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumon670" height="30" width="40" /></a>
